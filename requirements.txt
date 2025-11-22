@@ -1,0 +1,14 @@
+fiftyone
+torch
+torchvision
+matplotlib
+scikit-learn
+umap-learn
+anywidget
+seaborn
+pandas
+opencv-python
+tqdm
+numpy
+Pillow
+ipywidgets
